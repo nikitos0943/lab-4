@@ -1,0 +1,137 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+p{
+		margin: 1px;
+}
+.menu {
+	height: 80px;
+	padding: 10px 50px;
+	background: #e8e9eb
+
+
+}
+.menu-left{
+	float: left;
+	font-size:20px;
+	font-weight: 800;
+	margin-top: 30px; 
+}
+.nav{
+	margin: 28px auto 0px auto;
+	max-width: 500px;
+}
+.button{
+border: 1px solid black;
+color: rgba(247, 37, 37, 0.7);
+font-size: 20px;
+padding: 5px 20px;
+border-radius: 10px;
+background: rgb(239, 239, 239);
+float: left;
+margin: 0px 5px;
+text-decoration: none;
+
+}
+img{
+	float: right;
+	width: 110px;
+	height: auto;
+}
+.content1{
+
+	height: 600px;
+	background-image: url("../img/block1.jpg");
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 1px;
+}
+.block1{
+	max-width: 400px;
+	background: rgba(255,255,255,0.8);
+	border: 3px solid red;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 5px;
+	margin-top: 180px;
+	margin-left: 5%;
+	padding: 5px;
+}
+.block1-h3{
+	font-size: 40px;
+}
+.block1-p{
+	font-size: 20px;
+	text-align: center;
+}
+.flag-b{
+height: 80px;
+background: black;
+}
+.flag-r{
+height: 80px;
+background: red;
+}
+.flag-y{
+	height: 80px;
+background: yellow;
+}
+.content2{
+	height: 600px;
+	background-image: url("../img/block2.jpg");
+	background-position: 50% 50%;
+background-repeat: no-repeat;
+background-size: cover;
+padding: 1px;
+}
+.block{
+	width: 180px;
+	height: 350px;
+background: rgb(183, 183, 183);
+border-radius: 20px;
+text-align: center;
+padding: 20px;
+float: left;
+margin: 0px 25px;
+
+}
+.button2{
+	color: rgb(255, 28, 28);
+	font-size: 20px;
+	padding: 10px;
+	border-radius: 8px;
+	background: rgb(183, 183, 183);
+	box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);
+	text-decoration: none;
+	margin: 0px auto;
+}
+.wrap{
+	margin: -300px auto;
+	max-width: 1080px;
+}
+.block2{
+
+	background: #fff;
+height: 150px;
+width: 150px;
+margin-top: 580px;
+margin-left: 5%;
+border-radius: 100%;
+padding: 1px;
+
+}
+.block2-p{
+	padding: 32% 0px 0px 28px;
+}
+.futer{
+	background: black;
+	height: 100px;
+	color: white;
+	padding-top: 20px;
+}
+.futer-p{
+	float: right;
+}
